@@ -1,0 +1,907 @@
+#EXTM3U
+#EXTINF:0,NetTV Plus Info Kanal
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=nettvinfo&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTS1
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rts1&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTS2
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rts2&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTS Digital
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rtsdigital&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTS SAT
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rtssat&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTS HD
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rtshd&stream=hd&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,B92
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=b92&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,B92 Info
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=b92info&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Studio B
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=studiob&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Happy TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=happytv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,N1 SRB
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=n1srb&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,N1 HD SRB
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=n1hdsrb&stream=hd&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Nova RS
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=novars&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Nova RS HD
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=novarshd&stream=hd&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Prva Plus
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=prvaplus&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Prva Srpska TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=prvatv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pink&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Plus
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkplus&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Extra
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkextra&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Reality
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkreality&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Zabava
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkzabava&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Show
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkshow&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Kuvar
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkkuvar&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Serije
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkserije&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Soap
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinksoap&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Fashion
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkfashion&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Style
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkstyle&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Pedia
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkpedia&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink World
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkworld&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink 2
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pink2&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTV Mlava
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rtvmlava&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,SatTV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sattv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Best
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvbest&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Kladovo
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvkladovo&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Bor
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvbor&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Palma Plus
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=palmaplus&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Sky Plus
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=skyplus&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,EuroPlus TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=europlustv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Lov i Ribolov
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=loviribolov&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RT Vojvodina 1
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rtvojvodina1&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RT Vojvodina 2
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rtvojvodina2&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Art
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=arttv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,KTV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=ktv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTV Novi Pazar
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rtvnovipazar&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Mix
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvmix&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TeslaVision
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=teslavision&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Kanal M
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=kanalm&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Belle Amie
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=belleamie&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Leskovac
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvleskovac&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Yu Eco RTV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=yueco&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Vlasotince
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvvlasotince&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Dijaspora TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=dijasporatv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pannon RTV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pannonrtv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Rubin
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvrubin&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Info
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvinfo&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTV City
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=citytv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTV Caricin grad
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rtvcaricingrad&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,HRT1
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=hrt1&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,HRT2
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=hrt2&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,HRT3
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=hrt3&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,HRT 4
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=hrt4&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,N1 HR
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=n1hr&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,N1 HD HR
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=n1hdhr&stream=hd&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTL
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rtlcro&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTL 2
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rtl2cro&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Nova TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=novatv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Nova World
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=novaworld&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Doma TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=domatv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Z1
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=z1tv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Zdrava TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=zdravatv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,MrezaTV Zagreb
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=nezavisnatv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Jabuka TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=jabukatv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RI TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=ritv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Kanal RI
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=kanalri&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Osjecka TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=osjeckatv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Jadran
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvjadran&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Slavonska TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=slavonskatv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Vox
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvvoxcro&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Varazdinska TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=varazdinskatv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Vinkovacka TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=vinkovackatv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Istra
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvistra&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,MrezaTV Split
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvdalmacija&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,BHT1
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=bht1&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTRS
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rtrs&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,N1 BiH
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=n1bih&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,N1 HD BiH
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=n1hdbih&stream=hd&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Federalna TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=federalnatv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink BH
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkbh&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,OBN
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=obn&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,BN TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=bntv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,BN SAT
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=bntvsat&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Kanal 6
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=kanal6&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV1
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tv1&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,ATV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=alternativnatv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Al Jazeera Balkans
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=aljazeerabalkan&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Face TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=facetv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Face TV HD
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=facetvhd&stream=hd&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Alfa TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=alfatv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,OTV Valentino
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=otvvalentino&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Sarajevo
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvsarajevo&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,HTV Oscar C
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvoscarc&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,OSM TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvosm&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTV Istocno Sarajevo
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvistocnosarajevo&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTV Vogosca
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvvogosca&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,NTV 101
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=ntv101&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Kiss
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvkiss&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Vikom
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvvikom&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Jasmin
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvjasmin&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTV Zenica
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rtvzenica&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTV Slon
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rtvslon&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Simic
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvsimic&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,K3
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=k3&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Posavina TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=posavinatv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Premium
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkpremium&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Family
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkfamily&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Film
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkfilm&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Movies
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkmovies&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Action
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkaction&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Crime&Mystery
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkcrimemystery&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Thriller
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkthr&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Romance
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkromance&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Comedy
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkcomedy&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Sci-Fi&Fantasy
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkscififant&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Western
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkwestern&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Classic
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkclassic&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Horror
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkhorror&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink World Cinema
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkworldcinema&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Cinemania
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=cinemania&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Klasik TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=klasiktv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTCG 1
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rtcg1&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTCG SAT
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rtcgsat&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink M
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkm&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Atlas
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=atlas&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Boka
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=bokatv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTV SLO1
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rtvslo1&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTV SLO2
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rtvslo2&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,POP TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=poptv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV3 Medias
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tv3medias&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Planet TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=planettv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Planet TV HD
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=planettvhd&stream=hd&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Golica TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=golicatv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Kanal A
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=kanala&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Maribor
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvmaribor&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,MRT 1
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=mrt1&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,MRT 2
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=mrt2&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,MRT
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=mrt&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Sitel
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvsitel&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Sitel 3
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvsitel3&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Kanal 5
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=kanal5&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Kanal 5 Plus
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=kanal5plus&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,24 Vesti
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=24vesti&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Orbis
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvorbis&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Alfa
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvalfamk&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Telma TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=telmatv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Kanal Vizija
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvkanalvizija&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Sonce
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=soncetv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Fight
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkfight&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,SportKlub
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sportklub&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,SportKlub 1
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sportklub1&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,SportKlub 2
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sportklub2&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,SportKlub 3
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sportklub3&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,SportKlub 4
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sportklub4&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,SportKlub 5
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sportklub5&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,SportKlub 6
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sportklub6&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,SportKlub Golf
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sportklubgolf&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Sport TV 1
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sporttv1&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Sport TV 2
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sporttv2&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Test Sport 7
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=testsport7&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Test Sport 8
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=testsport8&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,SOS
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sos&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Sport Klub CRO
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sportklubcro&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Sport Klub SLO
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sportklubslo&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Sport 1 DE
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sport1&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RaiSport 1
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=raisport1&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RaiSport 2
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=raisport2&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,SportKlub HD
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sportklubhd&stream=hd&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,SportKlub 1 HD
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sportklub1hd&stream=hd&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,SportKlub 2 HD
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sportklub2hd&stream=hd&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,SportKlub 3 HD
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sportklub3hd&stream=hd&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Sport TV 1 HD
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sporttv1hd&stream=hd&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Sport TV 2 HD
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sporttv2hd&stream=hd&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Test Sport 7 HD
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=testsport7hd&stream=hd&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Test Sport 8 HD
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=testsport8hd&stream=hd&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,KiKa
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=kikahd&stream=hd&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Grand Narodna Televizija
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=grandtvint&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink 3 info
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pink3&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Parada
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkparada&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Music
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkmusic&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Music 2
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkmusic2&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Hits 1
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkhits1&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Hits 2
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkhits2&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Folk
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkfolk&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Folk 2
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkfolk2&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Koncert
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkkoncert&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Bravo Music
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkbravomusic&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink & Roll
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkandroll&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Kanal 3
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=kanal3&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,NTM Pop
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=ntmpop&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,NTM Rock
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=ntmrock&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,NTM Folk
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=ntmfolk&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,NTM Melos
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=ntmmelos&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,NTM Energies
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=ntmenergies&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,DM Sat
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=dmsat&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV1 Vienna
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tv1vienna&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Duga
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=dugatv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Top Music
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=topmusic&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Balkanika
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=balkanika&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,YU Planet
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=yuplanet&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,MTV Adria 
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=mtvadria&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,KCN 1
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=kopernikus&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,KCN 2
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=kcnmusic2&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,KCN 3
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=kcn3&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Istok
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvistok&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Istok 2
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvistok2&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Bujrum TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=bujrumtv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,BN Music
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=bnmusic&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Glas Drine
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=glasdrine&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,CMC
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=cmc&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Jugoton
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=jugoton&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTV Banovina
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rtvbanovina&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,BOM
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=bom&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RB Music Makedonija
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rbtv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV Carli
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tvcarli&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,VIVA
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=viva&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,MTV Hits
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=mtvhits&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,VH1
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=vh1&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTL 102.5
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rtl1025&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,4fun TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=4funtv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Alpha One RTV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=alphaonehd&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Kids
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkkids&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Super Kids
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinksuperkids&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Ultra TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=ultratv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Mini Ultra
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=miniultra&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Nickelodeon SRB
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=nickelodeonsrb&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Baby TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=babytv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,OK Bambino
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=bambino&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Orlando Kids
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=orlandokids&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Nickelodeon HR
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=nickelodeon&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Nick/Comedy
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=nickcomedy&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,ORF1
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=orf1&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,ORF2
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=orf2&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,N24
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=n24&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,SAT1
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sat1&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,ARD
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=ard&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,PRO7
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pro7&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,ZDF
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=zdf&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,3sat
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=3sat&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,KiKa
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=kikahd&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Kabel1
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=kabel1&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Deutsche Welle
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=deutschewelle&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Tele 5
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tele5&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,DMAX
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=dmax&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,CNN
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=cnn&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,BBC World
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=bbcworld&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Al Jazeera
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=aljazeera&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTV Espana
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rtve&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,EuroNews
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=euronews&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTR Planeta
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rtrplaneta&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Russia Today
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=russiatoday&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TV5 Monde
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=tv5monde&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,France 2
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=france2&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Rai 1
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rai1&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Rai 2
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rai2&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Rai 3
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rai3&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RaiGulp
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=raigulp&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RaiStoria
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=raistoria&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RaiScuola
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=raiscuola&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Italia 1
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=italia1&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Canale 5
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=canale5&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Rete 4
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rete4&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTS Un
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rtsun&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RTS Deux
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rtsdeux&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RSI La1
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rsila1&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RSI La2
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rsila2&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TRT 1
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=trt1&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TRT Spor
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=trt3&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,TRT Cocuk
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=trtcocuk&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,RT Documentary
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=russiatodaydoc&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Rossia 24
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=rossia24&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Hustler 3DHD
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=hustlerhd&stream=hd&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Erotic
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkerotic&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Erotic 2
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkerotic2&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Erotic 3
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkerotic3&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Erotic 4
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkerotic4&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Erotic 5
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkerotic5&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Erotic 6
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkerotic6&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Erotic 7
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkerotic7&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Pink Erotic 8
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=pinkerotic8&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Free-X TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=freex&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Frenchlover TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=frenchlover&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Hustler 
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=hustlertv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Dorcel! TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=dorceltv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Daring TV
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=daringtv&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,XXL
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=xxlnet&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,SCT 
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sct&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,SCT HD
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=scthd&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,SCT Prive
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sctprive&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,SCT TEME - X
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=scttemex&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,SCT Boy & Boy
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=sctboyboy&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Redlight Premium
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=redlightplatinum&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Diablo X TV 2
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=diabloxtv2&stream=1mb&sp=nettvplus?u=VYITTIIQ
+#EXTINF:0,Brazzers TV Europe
+#EXTVLCOPT:http-user-agent=draganm
+http://str.n3.nettvplus.com:8080/stream/?channel=privatespice&stream=1mb&sp=nettvplus?u=VYITTIIQ
