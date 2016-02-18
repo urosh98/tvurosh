@@ -1,0 +1,505 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="HRT_1.png",HRT 1
+http://media.bossna-caffe.com:80/live?channelId=128&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="HRT_2.png",HRT 2 
+http://media.bossna-caffe.com:80/live?channelId=129&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="HRT_3.png",HRT 3 
+http://media.bossna-caffe.com:80/live?channelId=131&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="HRT_4.png",HRT 4
+http://media.bossna-caffe.com:80/live?channelId=132&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="RTL_Televizija.png" tvg-id="RTL",RTL Televizija
+http://media.bossna-caffe.com:80/live?channelId=43&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="RTL_2.png",RTL 2
+http://media.bossna-caffe.com:80/live?channelId=179&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="RTL_Kockica.png",RTL Kockica
+http://media.bossna-caffe.com:80/live?channelId=264&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="RTL_Living.png",RTL Living
+http://media.bossna-caffe.com:80/live?channelId=263&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Nova_TV.png",Nova TV
+http://media.bossna-caffe.com:80/live?channelId=99&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Doma_TV.png",Doma TV
+http://media.bossna-caffe.com:80/live?channelId=28&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="CMC.png",CMC
+http://media.bossna-caffe.com:80/live?channelId=177&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="RTV_Banovina.png",RTV Banovina
+http://media.bossna-caffe.com:80/live?channelId=320&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="National_Geographic.png",National Geographic
+http://media.bossna-caffe.com:80/live?channelId=72&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Discovery_Channel.png",Discovery Channel
+http://media.bossna-caffe.com:80/live?channelId=27&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-shift="1" tvg-logo="Discovery_History.png" tvg-id="Discovery History UK",Discovery History
+http://media.bossna-caffe.com:80/live?channelId=345&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-shift="1" tvg-logo="Discovery_Turbo.png" tvg-id="Discovery Turbo UK",Discovery Turbo
+http://media.bossna-caffe.com:80/live?channelId=474&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-shift="1" tvg-logo="Investigation_Discovery.png" tvg-id="Investigation Discovery UK",Investigation Discovery
+http://cms.bossna-caffe.com:80/live?channelId=137&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Animal_Planet.png",Animal Planet
+http://media.bossna-caffe.com:80/live?channelId=1&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-shift="1" tvg-logo="Travel_Channel.png" tvg-id="Travel Channel UK",Travel Channel
+http://media.bossna-caffe.com:80/live?channelId=293&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="History_Channel.png" tvg-id="History Channel",History
+http://media.bossna-caffe.com:80/live?channelId=36&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-shift="1" tvg-logo="History_2.png" tvg-id="H2 UK",History 2
+http://cms.bossna-caffe.com:80/live?channelId=284&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Crime_&_Investigation.png",Crime & Investigation
+http://media.bossna-caffe.com:80/live?channelId=185&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="CineStar_TV.png",CineStar TV
+http://media.bossna-caffe.com:80/live?channelId=302&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="CineStar_Action_&_Thriller.png",CineStar Action & Thriller
+http://xmedia.bossna-caffe.com:80/live?channelId=410&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="CineStar_Premiere_1.png" tvg-id="CineStar Premiere",CineStar Premiere 1
+http://media.bossna-caffe.com:80/live?channelId=71&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="CineStar_Premiere_2.png",CineStar Premiere 2
+http://media.bossna-caffe.com:80/live?channelId=244&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Cinemax.png" tvg-id="Cinemax 1",Cinemax
+http://media.bossna-caffe.com:80/live?channelId=14&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Cinemax_2.png",Cinemax 2
+http://media.bossna-caffe.com:80/live?channelId=13&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="FOX.png",FOX
+http://media.bossna-caffe.com:80/live?channelId=31&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="FOX_Life.png",FOX Life
+http://media.bossna-caffe.com:80/live?channelId=313&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="FOX_Crime.png",FOX Crime
+http://media.bossna-caffe.com:80/live?channelId=32&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="FOX_Movies.png",FOX Movies
+http://media.bossna-caffe.com:80/live?channelId=33&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="HBO_Adria.png",HBO Adria
+http://media.bossna-caffe.com:80/live?channelId=34&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="HBO_Comedy.png",HBO Comedy
+http://media.bossna-caffe.com:80/live?channelId=35&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Comedy_Central.png" tvg-id="Comedy Central UK",Comedy Central
+http://media.bossna-caffe.com:80/live?channelId=372&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="M1_Film.png",M1 Film
+http://media.bossna-caffe.com:80/live?channelId=301&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Klasik_TV.png",Klasik TV
+http://media.bossna-caffe.com:80/live?channelId=247&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-shift="1" tvg-logo="Sky_Movies_Showcase.png" tvg-id="Sky Movies Showcase UK",Sky Movies Showcase
+http://media.bossna-caffe.com:80/live?channelId=351&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-shift="1" tvg-logo="Sky_Movies_Action_&_Adventure.png" tvg-id="Sky Movies Action & Adventure UK",Sky Movies Action & Adventure
+http://xmedia.bossna-caffe.com:80/live?channelId=171&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-shift="1" tvg-logo="Sky_Movies_Sci-Fi_&_Horror.png" tvg-id="Sky Movies Sci-Fi & Horror UK",Sky Movies Sci-Fi & Horror
+http://cms.bossna-caffe.com:80/live?channelId=473&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="MTV_Adria.png",MTV Adria
+http://xmedia.bossna-caffe.com:80/live?channelId=297&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="MTV_Hits.png",MTV Hits
+http://cms.bossna-caffe.com:80/live?channelId=296&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="MTV_Dance.png",MTV Dance
+http://cms.bossna-caffe.com:80/live?channelId=296&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="MTV_Rocks.png",MTV Rocks
+http://cms.bossna-caffe.com:80/live?channelId=296&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-shift="1" tvg-logo="VH1.png" tvg-id="VH1 UK",VH1
+http://cms.bossna-caffe.com:80/live?channelId=290&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Vevo_TV.png",Vevo TV Hits HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="Vevo_TV.png",Vevo TV Flow HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="Vevo_TV.png",Vevo TV Nashville HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="ESKA_Best_Music_TV.png",ESKA Best Music TV
+http://stream.smcloud.net/live2/best/best_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="ESKA_Party_TV.png",ESKA Party TV
+http://stream.smcloud.net:1935/live2/eska_party/eska_party_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="ESKA_Rock_TV.png",ESKA Rock TV
+http://stream.smcloud.net:1935/live2/eska_rock/eska_rock_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="24Kitchen.png" tvg-id="24 Kitchen",24Kitchen
+http://media.bossna-caffe.com:80/live?channelId=209&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="TLC.png" tvg-id="TLC",TLC
+http://media.bossna-caffe.com:80/live?channelId=133&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="E!.png",E!
+http://media.bossna-caffe.com:80/live?channelId=266&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Arena_Sport_1.png",Arena Sport 1 HR
+http://cms.bossna-caffe.com:80/live?channelId=52&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Arena_Sport_2.png",Arena Sport 2 HR
+http://cms.bossna-caffe.com:80/live?channelId=53&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Arena_Sport_3.png",Arena Sport 3 HR
+http://cms.bossna-caffe.com:80/live?channelId=54&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Arena_Sport_4.png",Arena Sport 4 HR
+http://cms.bossna-caffe.com:80/live?channelId=88&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Arena_Sport_5.png",Arena Sport 5 HR
+http://cms.bossna-caffe.com:80/live?channelId=178&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Arena_Sport_1.png" tvg-id="Arena Sport 1",Arena Sport 1 SRB
+http://cms.bossna-caffe.com:80/live?channelId=187&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Arena_Sport_2.png" tvg-id="Arena Sport 2",Arena Sport 2 SRB
+http://cms.bossna-caffe.com:80/live?channelId=188&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Arena_Sport_3.png" tvg-id="Arena Sport 3",Arena Sport 3 SRB
+http://cms.bossna-caffe.com:80/live?channelId=189&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Arena_Sport_4.png" tvg-id="Arena Sport 4",Arena Sport 4 SRB
+http://cms.bossna-caffe.com:80/live?channelId=190&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Arena_Sport_5.png" tvg-id="Arena Sport 5",Arena Sport 5 SRB
+http://cms.bossna-caffe.com:80/live?channelId=211&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="SK_1.png" tvg-id="Sport Klub 1",Sport Klub 1 HD
+http://cms.bossna-caffe.com:80/live?channelId=44&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="SK_2.png" tvg-id="Sport Klub 2",Sport Klub 2 HD
+http://cms.bossna-caffe.com:80/live?channelId=45&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="SK_3.png" tvg-id="Sport Klub 3",Sport Klub 3 HD
+http://cms.bossna-caffe.com:80/live?channelId=46&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="SK_1.png",Sport Klub 1
+http://cms.bossna-caffe.com:80/live?channelId=254&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="SK_2.png",Sport Klub 2
+http://cms.bossna-caffe.com:80/live?channelId=255&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="SK_3.png",Sport Klub 3
+http://cms.bossna-caffe.com:80/live?channelId=256&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Eurosport_1.png",Eurosport 1
+http://cms.bossna-caffe.com:80/live?channelId=29&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Eurosport_2.png",Eurosport 2
+http://cms.bossna-caffe.com:80/live?channelId=150&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-shift="1" tvg-logo="Sky_Sports_1.png" tvg-id="Sky Sports 1 UK",Sky Sports 1
+http://xmedia.bossna-caffe.com:80/live?channelId=26&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-shift="1" tvg-logo="Sky_Sports_2.png" tvg-id="Sky Sports 2 UK",Sky Sports 2
+http://xmedia.bossna-caffe.com:80/live?channelId=90&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-shift="1" tvg-logo="Sky_Sports_3.png" tvg-id="Sky Sports 3 UK",Sky Sports 3
+http://xmedia.bossna-caffe.com:80/live?channelId=65&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-shift="1" tvg-logo="Sky_Sports_4.png" tvg-id="Sky Sports 4 UK",Sky Sports 4
+http://cms.bossna-caffe.com:80/live?channelId=91&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-shift="1" tvg-logo="Sky_Sports_F1.png" tvg-id="Sky Sports F1 UK",Sky Sports F1
+http://xmedia.bossna-caffe.com:80/live?channelId=92&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-shift="1" tvg-logo="BT_Sport_1.png" tvg-id="BT Sport 1 UK",BT Sport 1
+http://xmedia.bossna-caffe.com:80/live?channelId=455&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-shift="1" tvg-logo="BT_Sport_2.png" tvg-id="BT Sport 2 UK",BT Sport 2
+http://xmedia.bossna-caffe.com:80/live?channelId=456&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="FOX_Sports_1.png" tvg-id="Fox Sports 1 (US)",FOX Sports 1
+http://xmedia.bossna-caffe.com:80/live?channelId=461&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="FOX_Sports_2.png" tvg-id="Fox Sports 2 (US)",FOX Sports 2
+http://xmedia.bossna-caffe.com:80/live?channelId=462&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Bein_Sports.png",Bein Sports 1
+http://xmedia.bossna-caffe.com:80/live?channelId=466&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Bein_Sports.png",Bein Sports 2
+http://xmedia.bossna-caffe.com:80/live?channelId=374&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Bein_Sports.png",Bein Sports 3
+http://xmedia.bossna-caffe.com:80/live?channelId=463&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Bein_Sports.png",Bein Sports 4
+http://xmedia.bossna-caffe.com:80/live?channelId=375&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Bein_Sports.png",Bein Sports 5
+http://xmedia.bossna-caffe.com:80/live?channelId=464&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Bein_Sports.png",Bein Sports 6
+http://xmedia.bossna-caffe.com:80/live?channelId=465&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Bein_Sports.png",Bein Sports 7
+http://xmedia.bossna-caffe.com:80/live?channelId=467&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Bein_Sports.png",Bein Sports 8
+http://xmedia.bossna-caffe.com:80/live?channelId=468&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Bein_Sports.png",Bein Sports 9
+http://xmedia.bossna-caffe.com:80/live?channelId=469&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Sport_1.png" tvg-id="Sky Sport 1 DE",Sky Sport 1
+http://xmedia.bossna-caffe.com:80/live?channelId=419&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Sport_2.png" tvg-id="Sky Sport 2 DE",Sky Sport 2
+http://cms.bossna-caffe.com:80/live?channelId=149&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Bundesliga_1.png" tvg-id="Sky Fußball Bundesliga DE",Sky Bundesliga 1
+http://cms.bossna-caffe.com:80/live?channelId=21&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Sport_1_IT.png",Sky Sport 1 IT
+http://video.bossna-caffe.com:80/live?channelId=541&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Sport_2_IT.png",Sky Sport 2 IT
+http://video.bossna-caffe.com:80/live?channelId=542&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Sport_3_IT.png",Sky Sport 3 IT
+http://video.bossna-caffe.com:80/live?channelId=544&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Sport_F1_IT.png",Sky Sport F1 IT
+http://video.bossna-caffe.com:80/live?channelId=522&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Sport_24_IT.png",Sky Sport 24 IT
+http://video.bossna-caffe.com:80/live?channelId=543&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="NBA_TV.png",NBA TV
+http://xmedia.bossna-caffe.com:80/live?channelId=366&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="LFC_TV.png" tvg-id="Liverpool TV UK",LFC TV
+http://xmedia.bossna-caffe.com:80/live?channelId=361&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="MUTV.png" tvg-id="Manchester United UK",MUTV
+http://media.bossna-caffe.com:80/live?channelId=341&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Barca_TV.png" tvg-id="Barca TV (Spa)",Barca TV
+http://xmedia.bossna-caffe.com:80/live?channelId=470&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sport_Time.png",Sport Time
+http://xmedia.bossna-caffe.com:80/live?channelId=457&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Lig_TV.png" tvg-id="Lig TV 1 (Tr)",Lig TV
+http://cms.bossna-caffe.com:80/live?channelId=316&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Motors_TV.png" tvg-id="Motors TV UK",Motors TV
+http://xmedia.bossna-caffe.com:80/live?channelId=471&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Lov_i_Ribolov.png",Lov i Ribolov
+http://media.bossna-caffe.com:80/live?channelId=265&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Fight_Network.png" tvg-id="Fight Network",Fight Network
+http://media.bossna-caffe.com:80/live?channelId=212&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Disney_Channel.png" tvg-id="Disney Channel UK",Disney Channel
+http://cms.bossna-caffe.com:80/live?channelId=300&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Disney_Junior.png" tvg-id="Disney Junior UK",Disney Junior
+http://cms.bossna-caffe.com:80/live?channelId=298&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Nickelodeon.png",Nickelodeon
+http://cms.bossna-caffe.com:80/live?channelId=299&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Hayatovci.png",Hayatovci
+http://cms.bossna-caffe.com:80/live?channelId=248&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Cartoon_Network.png",Cartoon Network
+http://cms.bossna-caffe.com:80/live?channelId=232&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="CNN_International.png" tvg-id="CNN",CNN International
+http://media.bossna-caffe.com:80/live?channelId=346&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_News.png" tvg-id="Sky News UK",Sky News
+http://media.bossna-caffe.com:80/live?channelId=344&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Al_Jazeera_Balkans.png",Al Jazeera Balkans
+http://media.bossna-caffe.com:80/live?channelId=176&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="N1.png",N1
+http://media.bossna-caffe.com:80/live?channelId=252&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Federalna_TV.png",Federalna TV
+http://media.bossna-caffe.com:80/live?channelId=127&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="BHT_1.png",BHT 1
+http://media.bossna-caffe.com:80/live?channelId=126&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="OBN.png",OBN
+http://media.bossna-caffe.com:80/live?channelId=49&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_BH.png",Pink BH
+http://cms.bossna-caffe.com:80/live?channelId=50&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="RTRS.png",RTRS
+http://cms.bossna-caffe.com:80/live?channelId=257&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="RTV_TK.png" tvg-id="TK",RTV TK
+http://media.bossna-caffe.com:80/live?channelId=186&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="RTVZE.png",RTVZE
+http://media.bossna-caffe.com:80/live?channelId=262&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="TVSA.png",TVSA
+http://media.bossna-caffe.com:80/live?channelId=271&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="A1_International.png",A1 International
+http://media.bossna-caffe.com:80/live?channelId=326&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="A1_Balkan.png",A1 Balkan
+http://media.bossna-caffe.com:80/live?channelId=321&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="A1_Islam.png",A1 Islam
+http://media.bossna-caffe.com:80/live?channelId=325&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Face_TV.png",Face TV
+http://media.bossna-caffe.com:80/live?channelId=253&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Posavska_TV.png",Posavska TV
+http://media.bossna-caffe.com:80/live?channelId=318&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Hayat.png" tvg-id="Hayat TV",Hayat
+http://media.bossna-caffe.com:80/live?channelId=78&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Hayat_Folk.png",Hayat Folk
+http://media.bossna-caffe.com:80/live?channelId=156&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Bujrum_TV.png",Bujrum TV
+http://media.bossna-caffe.com:80/live?channelId=324&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="MTV_Igman.png",MTV Igman
+http://media.bossna-caffe.com:80/live?channelId=288&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="BN.png",BN
+http://media.bossna-caffe.com:80/live?channelId=85&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="BN_Music.png",BN Music
+http://media.bossna-caffe.com:80/live?channelId=86&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="RTS_1.png",RTS 1
+http://cms.bossna-caffe.com:80/live?channelId=273&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="RTS_2.png",RTS 2
+http://cms.bossna-caffe.com:80/live?channelId=274&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="RTS_1.png",RTS HD
+http://cms.bossna-caffe.com:80/live?channelId=246&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="B92.png",B92
+http://media.bossna-caffe.com:80/live?channelId=74&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Happy_TV.png",Happy TV
+http://media.bossna-caffe.com:80/live?channelId=158&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Nova_RS.png",Nova RS
+http://media.bossna-caffe.com:80/live?channelId=258&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Prva.png",Prva
+http://cms.bossna-caffe.com:80/live?channelId=42&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Prva_Plus.png",Prva Plus
+http://cms.bossna-caffe.com:80/live?channelId=314&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Grand_TV.png" tvg-id="Grand Narodna TV",Grand TV
+http://cms.bossna-caffe.com:80/live?channelId=93&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="DM_SAT.png" tvg-id="DM Sat",DM SAT
+http://xmedia.bossna-caffe.com:80/live?channelId=444&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="TV_Duga.png",TV Duga
+http://media.bossna-caffe.com:80/live?channelId=10&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="RTCG.png" tvg-id="RTCG Sat",RTCG
+http://media.bossna-caffe.com:80/live?channelId=10&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink.png" tvg-id="Pink 1",Pink
+http://cms.bossna-caffe.com:80/live?channelId=51&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_2.png",Pink 2
+http://cms.bossna-caffe.com:80/live?channelId=66&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_3_Info.png",Pink 3 Info
+http://media.bossna-caffe.com:80/live?channelId=319&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_Action.png",Pink Action
+http://cms.bossna-caffe.com:80/live?channelId=164&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_Thriller.png",Pink Thriller
+http://cms.bossna-caffe.com:80/live?channelId=41&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_Crime_&_Mystery.png",Pink Crime & Mystery
+http://cms.bossna-caffe.com:80/live?channelId=38&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_M.png",Pink M
+http://cms.bossna-caffe.com:80/live?channelId=67&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_Folk_1.png",Pink Folk
+http://cms.bossna-caffe.com:80/live?channelId=83&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_Folk_2.png",Pink Folk 2
+http://cms.bossna-caffe.com:80/live?channelId=295&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_Music.png",Pink Music
+http://media.bossna-caffe.com:80/live?channelId=294&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_Horror.png",Pink Horror
+http://cms.bossna-caffe.com:80/live?channelId=39&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_Western.png",Pink Western
+http://cms.bossna-caffe.com:80/live?channelId=163&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_Movies.png",Pink Movies
+http://media.bossna-caffe.com:80/live?channelId=498&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_Kids.png",Pink Kids
+http://cms.bossna-caffe.com:80/live?channelId=251&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_Romance.png",Pink Romance
+http://media.bossna-caffe.com:80/live?channelId=323&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_Sci-Fi_&_Fantasy.png",Pink Sci Fi & Fantasy
+http://cms.bossna-caffe.com:80/live?channelId=40&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_Premium.png",Pink Premium
+http://xmedia.bossna-caffe.com:80/live?channelId=69&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_Reality.png",Pink Reality
+http://cms.bossna-caffe.com:80/live?channelId=317&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_Soap.png",Pink Soap
+http://cms.bossna-caffe.com:80/live?channelId=289&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_World.png",Pink World
+http://cms.bossna-caffe.com:80/live?channelId=167&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_Pedia.png",Pink Pedia
+http://video.bossna-caffe.com:80/live?channelId=499&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_Plus.png",Pink Plus
+http://cms.bossna-caffe.com:80/live?channelId=306&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_Film.png",Pink Film
+http://cms.bossna-caffe.com:80/live?channelId=82&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_Zabava.png",Pink Zabava
+http://video.bossna-caffe.com:80/live?channelId=500&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_Comedy.png",Pink Comedy
+http://cms.bossna-caffe.com:80/live?channelId=37&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pink_Kuvar.png",Pink Kuvar
+http://media.bossna-caffe.com:80/live?channelId=327&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_1.png",Sky 1
+http://cms.bossna-caffe.com:80/live?channelId=169&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Living.png",Sky Living
+http://media.bossna-caffe.com:80/live?channelId=8&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Watch.png" tvg-id="Watch UK",Watch
+http://cms.bossna-caffe.com:80/live?channelId=169&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="RTL_Television.png" tvg-id="RTL DE",RTL Television
+http://cms.bossna-caffe.com:80/live?channelId=18&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="RTL_II.png" tvg-id="RTL 2 DE",RTL II
+http://xmedia.bossna-caffe.com:80/live?channelId=259&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Pro7.png" tvg-id="ProSieben DE",Pro7
+http://cms.bossna-caffe.com:80/live?channelId=167&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sat.1.png" tvg-id="Sat.1 DE",Sat.1
+http://cms.bossna-caffe.com:80/live?channelId=582&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Kabel_Eins.png" tvg-id="Kabel Eins DE",Kabel Eins
+http://cms.bossna-caffe.com:80/live?channelId=561&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="TNT_Film.png" tvg-id="TNT Film DE",TNT Film
+http://cms.bossna-caffe.com:80/live?channelId=196&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="FOX.png" tvg-id="FOX DE",FOX
+http://xmedia.bossna-caffe.com:80/live?channelId=283&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="VOX.png" tvg-id="VOX DE",VOX
+http://xmedia.bossna-caffe.com:80/live?channelId=181&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Arte.png" tvg-id="Arte DE",Arte
+http://xmedia.bossna-caffe.com:80/live?channelId=430&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="KiKA.png" tvg-id="KiKa",KiKA
+http://media.bossna-caffe.com:80/live?channelId=339&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="ORF_1.png",ORF 1
+http://cms.bossna-caffe.com:80/live?channelId=260&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="ORF_2.png",ORF 2
+http://xmedia.bossna-caffe.com:80/live?channelId=134&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="National_Geographic.png" tvg-id="National Geographic DE",National Geographic
+http://xmedia.bossna-caffe.com:80/live?channelId=16&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Nat_Geo_Wild.png" tvg-id="Nat Geo Wild DE",Nat Geo Wild
+http://cms.bossna-caffe.com:80/live?channelId=169&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Discovery_Channel.png" tvg-id="Discovery Channel DE",Discovery Channel
+http://cms.bossna-caffe.com:80/live?channelId=169&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="History_Channel.png" tvg-id="History Channel DE",History
+http://cms.bossna-caffe.com:80/live?channelId=584&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_13th_Street.png" tvg-id="13th Street",Sky 13th Street
+http://media.bossna-caffe.com:80/live?channelId=338&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Comedy.png" tvg-id="Sky Comedy DE",Sky Comedy
+http://cms.bossna-caffe.com:80/live?channelId=23&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Action.png" tvg-id="Sky Action DE",Sky Action
+http://cms.bossna-caffe.com:80/live?channelId=19&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Cinema.png" tvg-id="Sky Cinema DE",Sky Cinema
+http://cms.bossna-caffe.com:80/live?channelId=22&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Cinema_+24.png" tvg-id="Sky Cinema +24",Sky Cinema +24
+http://cms.bossna-caffe.com:80/live?channelId=198&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Krimi.png" tvg-id="Sky Krimi DE",Sky Krimi
+http://cms.bossna-caffe.com:80/live?channelId=204&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Hits.png" tvg-id="Sky Hits DE",Sky Hits
+http://cms.bossna-caffe.com:80/live?channelId=261&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Select.png",Sky Select 1
+http://cms.bossna-caffe.com:80/live?channelId=206&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Select.png",Sky Select 2
+http://cms.bossna-caffe.com:80/live?channelId=9&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Select.png",Sky Select 3
+http://cms.bossna-caffe.com:80/live?channelId=142&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Select.png",Sky Select 4
+http://media.bossna-caffe.com:80/live?channelId=332&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Select.png",Sky Select 5
+http://media.bossna-caffe.com:80/live?channelId=332&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Select.png",Sky Select 6
+http://media.bossna-caffe.com:80/live?channelId=333&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Select.png",Sky Select 7
+http://media.bossna-caffe.com:80/live?channelId=335&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Select.png",Sky Select 8
+http://media.bossna-caffe.com:80/live?channelId=334&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Sky_Select.png",Sky Select 9
+http://media.bossna-caffe.com:80/live?channelId=336&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",RTK 1
+http://xmedia.bossna-caffe.com:80/live?channelId=359&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",KTV Kohavision
+http://xmedia.bossna-caffe.com:80/live?channelId=357&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",3plus
+http://xmedia.bossna-caffe.com:80/live?channelId=380&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",RTV 21
+http://xmedia.bossna-caffe.com:80/live?channelId=384&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",RTV 21 Plus
+http://xmedia.bossna-caffe.com:80/live?channelId=446&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",RTV 21 Popullore
+http://cms.bossna-caffe.com:80/live?channelId=452&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",Top News
+http://xmedia.bossna-caffe.com:80/live?channelId=382&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",Klan
+http://xmedia.bossna-caffe.com:80/live?channelId=378&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",Klan Kosova
+http://xmedia.bossna-caffe.com:80/live?channelId=379&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",Alsat M
+http://xmedia.bossna-caffe.com:80/live?channelId=377&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",Folklorit
+http://xmedia.bossna-caffe.com:80/live?channelId=453&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",Dasma TV
+http://xmedia.bossna-caffe.com:80/live?channelId=449&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",First 1
+http://xmedia.bossna-caffe.com:80/live?channelId=451&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",Folk Plus
+http://cms.bossna-caffe.com:80/live?channelId=450&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",Film Drame
+http://xmedia.bossna-caffe.com:80/live?channelId=353&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",Film DY
+http://xmedia.bossna-caffe.com:80/live?channelId=354&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",Film Hits
+http://xmedia.bossna-caffe.com:80/live?channelId=355&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",Film Thriller
+http://xmedia.bossna-caffe.com:80/live?channelId=356&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",Film Komedi
+http://xmedia.bossna-caffe.com:80/live?channelId=391&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",Tring Tring
+http://xmedia.bossna-caffe.com:80/live?channelId=396&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",Tring Fantazy
+http://xmedia.bossna-caffe.com:80/live?channelId=360&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",Tring Comedy
+http://xmedia.bossna-caffe.com:80/live?channelId=367&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",Tring Plus
+http://xmedia.bossna-caffe.com:80/live?channelId=369&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",Tring History
+http://xmedia.bossna-caffe.com:80/live?channelId=388&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",Explorer History
+http://xmedia.bossna-caffe.com:80/live?channelId=392&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",Cufo TV
+http://xmedia.bossna-caffe.com:80/live?channelId=385&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",Top Channel
+http://xmedia.bossna-caffe.com:80/live?channelId=381&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",Explorer Natyra
+http://xmedia.bossna-caffe.com:80/live?channelId=394&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",Explorer Shkence
+http://xmedia.bossna-caffe.com:80/live?channelId=393&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",SuperSport 1 Kosova
+http://xmedia.bossna-caffe.com:80/live?channelId=386&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",SuperSport 1
+http://xmedia.bossna-caffe.com:80/live?channelId=362&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",SuperSport 2
+http://xmedia.bossna-caffe.com:80/live?channelId=363&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",SuperSport 3
+http://media.bossna-caffe.com:80/live?channelId=364&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="Albania.png",SuperSport 4
+http://media.bossna-caffe.com:80/live?channelId=376&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="18+.png",XXX 1
+http://xmedia.bossna-caffe.com:80/live?channelId=119&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="18+.png",XXX 2
+http://xmedia.bossna-caffe.com:80/live?channelId=117&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="18+.png",XXX 3
+http://xmedia.bossna-caffe.com:80/live?channelId=305&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="18+.png",XXX 4
+http://xmedia.bossna-caffe.com:80/live?channelId=216&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="18+.png",XXX 5
+http://xmedia.bossna-caffe.com:80/live?channelId=68&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="18+.png",XXX 6
+http://xmedia.bossna-caffe.com:80/live?channelId=303&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="18+.png",XXX 7
+http://xmedia.bossna-caffe.com:80/live?channelId=304&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="18+.png",XXX 8
+http://xmedia.bossna-caffe.com:80/live?channelId=365&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="18+.png",XXX 9
+http://xmedia.bossna-caffe.com:80/live?channelId=424&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
+#EXTINF:-1 tvg-logo="18+.png",XXX 10
+http://xmedia.bossna-caffe.com:80/live?channelId=425&uid=200manzalovic&deviceUser=200manzalovic&devicePass=manzalovic123
